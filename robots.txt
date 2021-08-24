@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://doks.netlify.app/sitemap.xml
+Sitemap: https://tangmm-au.github.io/hugo-test/sitemap.xml
